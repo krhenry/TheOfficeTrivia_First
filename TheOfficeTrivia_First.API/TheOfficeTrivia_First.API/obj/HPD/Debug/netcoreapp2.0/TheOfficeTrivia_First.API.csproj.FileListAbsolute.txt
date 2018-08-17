@@ -1,0 +1,11 @@
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\bin\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.deps.json
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\bin\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.runtimeconfig.json
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\bin\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.runtimeconfig.dev.json
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\bin\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.dll
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\bin\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.pdb
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\obj\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.csprojAssemblyReference.cache
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\obj\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.csproj.CoreCompileInputs.cache
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\obj\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.AssemblyInfoInputs.cache
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\obj\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.AssemblyInfo.cs
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\obj\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.dll
+C:\Development\TheOfficeTrivia_First\TheOfficeTrivia_First\TheOfficeTrivia_First.API\TheOfficeTrivia_First.API\obj\HPD\Debug\netcoreapp2.0\TheOfficeTrivia_First.API.pdb
